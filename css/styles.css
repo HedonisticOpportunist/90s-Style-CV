@@ -1,0 +1,23 @@
+body {
+  background-color: #cbeaed
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #086972;
+  border-width: 5px;
+  width: 50%;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  color: #12cad6;
+}
+
+h3 {
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: normal;
+  color: #086972;
+}
