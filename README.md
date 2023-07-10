@@ -2,4 +2,4 @@
 
 URL: 
 
-https://hedonisticopportunist.github.io/cv/
+https://hedonisticopportunist.github.io/90s-Style-CV/
